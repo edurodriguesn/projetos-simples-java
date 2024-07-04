@@ -4,5 +4,5 @@
 /**
  * 
  */
-module smart_tv {
+module smattv {
 }
